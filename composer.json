@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/vuedatatable",
+    "name": "boing6002/vuedatatable",
     "description": "Data Table library with server-side processing and a VueJS component",
     "keywords": [
         "laravel-enso",
@@ -21,8 +21,8 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/framework": "5.7.*",
-        "laravel-enso/helpers": "1.10.*",
-        "laravel-enso/vuecomponents": "2.7.*",
+        "boing6002/helpers": "dev-master",
+        "boing6002/vuecomponents": "dev-master",
         "box/spout": "2.7.*"
     },
     "autoload": {
